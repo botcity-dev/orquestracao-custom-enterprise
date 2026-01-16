@@ -1,7 +1,4 @@
-# Setting to use this specific version of the package
-selenium==4.10.0     
-
-# Including BotCity Maestro SDK dependencie
+# Configuração para usar esta versão específica do pacote
+selenium==4.10.0   
+# Incluindo a dependência BotCity Maestro SDK para orquestrar
 botcity-maestro-sdk
-
-webdriver-manager==3.8.5
